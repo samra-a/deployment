@@ -6,9 +6,15 @@ const Welcome = () => {
                 <h1>My Portfolio</h1>
                 <nav>
                     <ul>
-                        <li>About</li>
-                        <li>Projects</li>
-                        <li>Contact</li>
+                        <li>
+                            <a href="/about">About</a>
+                        </li>
+                        <li>
+                            <a href="/about">Projects</a>
+                        </li>
+                        <li>
+                            <a href="/about">Contact</a>
+                        </li>
                     </ul>
                 </nav>
             </header>
